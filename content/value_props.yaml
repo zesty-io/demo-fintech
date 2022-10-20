@@ -1,0 +1,58 @@
+
+  - id: "e725-e100-e527"
+    web:
+      metaDescription: "Global support available 24/7/365. Get help instantly."
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 136
+      listed: true
+    data:
+      sort_order: 3
+      value_proposition: "Global support available 24/7/365. Get help instantly."
+  - id: "937d-1865-f232"
+    web:
+      metaDescription: "Unlock the best prices for crypto and trades."
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 135
+      listed: true
+    data:
+      sort_order: 2
+      value_proposition: "Unlock the best prices for crypto and trades."
+  - id: "a412-5f9b-5bc0"
+    web:
+      metaDescription: "Best-of-breed technology trusted by 10m+ users.\n"
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 134
+      listed: true
+    data:
+      sort_order: 1
+      value_proposition: "Best-of-breed technology trusted by 10m+ users.\n"

@@ -1,0 +1,1 @@
+"[\r\n    {{ each articles as article sort by date desc }}\r\n    {\r\n        \"title\": \"{{article.title}}\",\r\n        \"date\": \"{{article.date.date(d M, Y)}}\",\r\n        \"image\": \"{{article.image.getImage()}}\",\r\n        \"url\": \"{{article.getUrl()}}\"\r\n    } {{ if {article._num} != {article._length} }},{{end-if}}\r\n    {{end-each}}\r\n]"

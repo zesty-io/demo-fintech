@@ -1,0 +1,33 @@
+
+  - id: "ec98-a64e-e0f0"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      categories_title: "Categories"
+      contact_modal_msg: "<p>Message sent, Thank you!</p>"
+      footer_column_1: "Column 1"
+      footer_column_2: "Column 2"
+      footer_column_3: "Column 3"
+      footer_modal_msg: "<p>Thank you for joining us</p>"
+      footer_signup_button_text: "Sign up"
+      footer_signup_text: "Signup for our newsletter"
+      footer_text: "ZeeFinance Demo Site"
+      logo: "https://7z8qfp6r.media.zestyio.com/Zee-Finance-Logo.png"
+      modal_button_name: "Close"
+      modal_title: "Message"
+      recent_news_title: "Recent News"
+      site_name: "ZeeFinance"
+      tag_title: "Tags:"

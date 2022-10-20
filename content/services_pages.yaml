@@ -1,0 +1,37 @@
+
+  - id: "dd6b-24b8-1649"
+    web:
+      metaDescription: "We offer multi-faceted tools to appeal to any user looking to invest and save money for their future."
+      metaTitle: "Our services"
+      metaLinkText: "Our services"
+      metaKeywords: null
+      pathPart: "our-services"
+      path: "/our-services/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 145
+      listed: true
+    data:
+      block_2_description: "<p class=\"text-lg text-center text-lg-start md-pt-30 m0\">Whether you're just starting your financial journey or ready to advance to the next level of investing, we have you covered. See all our offerings below.</p>"
+      block_2_h2: "Financial products for <span>all your needs</span>"
+      block_3_title_description: "<h2 class=\"main-title fw-bold tx-dark\">Why <span>choose</span></h2>\n<h2 class=\"main-title fw-bold tx-dark\">Us?</h2>\n<p class=\"text-lg mt-40 lg-mt-20\">Our products beat out the competition every time.</p>"
+      cta_area_title_and_description: "<h2 class=\"main-title fw-bold tx-dark m0\">Ready to save? Sign up now</h2>\n<p class=\"text-lg tx-dark pt-40 pb-35 lg-pt-30 lg-pb-20 wow fadeInUp\" data-wow-delay=\"0.1s\">Get your first account up and running for just $4.99.</p>"
+      cta_button: "Sign up now"
+      cta_button_link: "8578-d990-11e5"
+      description: "We offer multi-faceted tools to appeal to any user looking to invest and save money for their future."
+      dropdown_1: "<div class=\"accordion-header\" id=\"headingOne\"><button class=\"accordion-button\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\">Save more money</button></div>\n<div id=\"collapseOne\" class=\"accordion-collapse collapse show\" aria-labelledby=\"headingOne\" data-bs-parent=\"#accordionOne\">\n<div class=\"accordion-body\">\n<p>Tools like our Saver app allow you to save even when you're not thinking about it. On average, our users save 40% more with us than with our competitors.</p>\n</div>\n</div>"
+      dropdown_2: "<div class=\"accordion-header\" id=\"headingTwo\"><button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Invest for the future</button></div>\n<div id=\"collapseTwo\" class=\"accordion-collapse collapse\" aria-labelledby=\"headingTwo\" data-bs-parent=\"#accordionOne\">\n<div class=\"accordion-body\">\n<p>Secure a comfortable future with our investment tools. Add anything you don't spend into an automatic investment account and see your money grow.</p>\n</div>\n</div>"
+      dropdown_3: "<div class=\"accordion-header\" id=\"headingThree\"><button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapseThree\" aria-expanded=\"true\" aria-controls=\"collapseThree\"> Get your friends in on it too </button></div>\n<div id=\"collapseThree\" class=\"accordion-collapse collapse\" aria-labelledby=\"headingThree\" data-bs-parent=\"#accordionOne\">\n<div class=\"accordion-body\">\n<p>Save more with incentives from friends and family. Compete to win prizes and titles for best saver around.</p>\n</div>\n</div>"
+      header_image: "https://7z8qfp6r.media.zestyio.com/Services-background.png"
+      services_cards: "d91a-f5a3-30a7,6456-c179-8502,2e65-6918-cf14"
+      sign_in_text: "<p class=\"m0 pt-10\">Already a member? <a href=\"#\" class=\"tx-dark\">Sign in</a></p>"
+      subscribe_bg_image: "https://7z8qfp6r.media.zestyio.com/bg-3.png"
+      subscribe_block: "<div class=\"sc-title fw-500 \">Subscribe Now</div>\n<h4 class=\"main-title fw-bold tx-dark\">Get our newsletter in your inbox to brush up on your financial skills</h4>"
+      testimonial_header: "Hear from our <span>clients</span>"
+      testimonials: "81fb-707d-80e8,a1e2-fee8-95df,e787-978b-bee8"
+      title: "Our Products"
+      why_us_label: "Why us?"

@@ -1,0 +1,64 @@
+
+  - id: "2e65-6918-cf14"
+    web:
+      metaDescription: "Ready to jump into crypto? Our tools will help you navigate the world of crypto and get better returns on your investments."
+      metaTitle: "Crypto Tool"
+      metaLinkText: "Crypto Tool"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 148
+      listed: true
+    data:
+      description: "<p>Ready to jump into crypto? Our tools will help you navigate the world of crypto and get better returns on your investments.</p>"
+      graphic: "https://7z8qfp6r.media.zestyio.com/1.png"
+      link: null
+      title: "Crypto Tool"
+  - id: "6456-c179-8502"
+    web:
+      metaDescription: "Add extra money into an investment account automatically, so you can grow your future without the stress."
+      metaTitle: "Investment Tool"
+      metaLinkText: "Investment Tool"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 147
+      listed: true
+    data:
+      description: "<p>Add extra money into an investment account automatically, so you can grow your future without the stress.</p>"
+      graphic: "https://7z8qfp6r.media.zestyio.com/2.png"
+      link: null
+      title: "Investment Tool"
+  - id: "d91a-f5a3-30a7"
+    web:
+      metaDescription: "Save more money automatically by adding anything you don't spend into a savings account."
+      metaTitle: "Saver Tool"
+      metaLinkText: "Saver Tool"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 146
+      listed: true
+    data:
+      description: "<p>Save more money automatically by adding anything you don't spend into a savings account.</p>"
+      graphic: "https://7z8qfp6r.media.zestyio.com/3.png"
+      link: "d57a-dfb1-e3cf"
+      title: "Saver Tool"

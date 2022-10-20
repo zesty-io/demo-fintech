@@ -1,0 +1,93 @@
+
+  - id: "8f39-48d6-8ee2"
+    web:
+      metaDescription: "test review content"
+      metaTitle: "test review highlight"
+      metaLinkText: "test review highlight"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 209
+      listed: true
+    data:
+      review_content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna et pharetra pharetra massa."
+      review_highlight: "Test review highlight"
+      review_logo: "https://7z8qfp6r.media.zestyio.com/img_03.png"
+      reviewer_location: "USA"
+      reviewer_name: "Kate Miller"
+      stars: 3
+  - id: "a1e2-fee8-95df"
+    web:
+      metaDescription: "My money grows with their savings tools. I used to never have extra cash and now I can confidently say I have comfortable savings for any of life's emergencies."
+      metaTitle: "I have comfortable savings now"
+      metaLinkText: "I have comfortable savings now"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 150
+      listed: true
+    data:
+      review_content: "My money grows with their savings tools. I used to never have extra cash and now I can confidently say I have comfortable savings for any of life's emergencies."
+      review_highlight: "I have comfortable savings now"
+      review_logo: "https://7z8qfp6r.media.zestyio.com/img_02.png"
+      reviewer_location: "UK"
+      reviewer_name: "James Smith"
+      stars: 4
+  - id: "81fb-707d-80e8"
+    web:
+      metaDescription: "Best crypto brand I've ever worked with. They make my money increase every day. Can't say enough good things about them."
+      metaTitle: "Best crypto brand"
+      metaLinkText: "Best crypto brand"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 149
+      listed: true
+    data:
+      review_content: "Best crypto brand I've ever worked with. They make my money increase every day. Can't say enough good things about them."
+      review_highlight: "Best crypto brand"
+      review_logo: "https://7z8qfp6r.media.zestyio.com/img_02.png"
+      reviewer_location: "CA"
+      reviewer_name: "John Colin"
+      stars: 5
+  - id: "e787-978b-bee8"
+    web:
+      metaDescription: "I used to suck at investing. I just wouldn't bother. Who wants to invest and then see their money drop? But when I started working with their investment tool, I"
+      metaTitle: "I see my money grow with their investment tool"
+      metaLinkText: "I see my money grow with their investment tool"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 151
+      listed: true
+    data:
+      review_content: "I used to suck at investing. I just wouldn't bother. Who wants to invest and then see their money drop? But when I started working with their investment tool, I saw my money grow. They really know what they're doing."
+      review_highlight: "I see my money grow with their investment tool"
+      review_logo: "https://7z8qfp6r.media.zestyio.com/img_02.png"
+      reviewer_location: "USA"
+      reviewer_name: "Joe Douglas"
+      stars: 5
