@@ -1,1 +1,0 @@
-"[\n    {{ each nav_bar_items as nav }}\n    {\n        \"class\": \"li\",\n        \"name\": \"{{nav.title}}\",\n        \"internal_link\": \"{{truepath({nav.link})}}\",\n        \"external_link\": \"{{nav.zesty_link}}\"\n    }{{ if {nav._num} != {nav._length} }},{{end-if}}\n    {{end-each}}\n]\n\n"
