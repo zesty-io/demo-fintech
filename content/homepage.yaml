@@ -1,0 +1,40 @@
+
+  - id: "135d-24f5-498a"
+    web:
+      metaDescription: ""
+      metaTitle: "Homepage"
+      metaLinkText: "Homepage"
+      metaKeywords: null
+      pathPart: "zesty_home"
+      path: "/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 0
+      listed: true
+    data:
+      blog_title: "Latest on the <span>Blog</span>"
+      content: "<p>Secure your money and your future with our services. Consolidate banking, investing, crypto, and more to one platform.</p>"
+      cta_button_how_it_works: "/"
+      cta_button_link: "/"
+      cta_button_text: "Start Today"
+      cta_button_text_how_it_works: "Start Today"
+      faqs: null
+      heading2: "<h2 class=\"main-title text-white\">Trusted <span>Cryptocurrency</span> Platform</h2>\n<p class=\"text-white opacity-50 fs-20 pt-15\">Lorem ipsum dolor sit amet consectetur adipiscing elit etiam</p>"
+      how_it_works_content: "<p>Link your bank account and have your services linked in minutes. It's super easy &amp; fast. Enjoy services like:</p>\n<ul>\n<li>Global Exchange Rates</li>\n<li>Fast payments with Bank Transfer</li>\n<li>Instant Transactions</li>\n</ul>"
+      how_it_works_image: "https://7z8qfp6r.media.zestyio.com/wallet-full-of-money-3404179-2837636.png"
+      how_it_works_label: "How it Works"
+      how_it_works_main_text: "Manage <span>All Assets</span> from One Place"
+      image: "https://7z8qfp6r.media.zestyio.com/people-investing-money-in-bank-5589532-4669701.png"
+      learn_more: "<p class=\"d-inline-block zn2 fs-20 text-white position-relative learn-more-btn\">Want learn more? <a href=\"/blog/\" class=\"fw-500\">Go to blog</a></p>"
+      rating_text: "<h2 class=\"fw-500 text-white mt-60 lg-mt-30\">A+ Rating</h2>\n<p class=\"fs-20 opacity-50 text-white\">Avg rating 4.8 makes us world most best apps.</p>"
+      testimonials: null
+      title: "Trusted & Secure <span>Money Management Test</span> "
+      video_text: "<p><span class=\"d-block fs-15 text-uppercase tx1\">Watch</span> <strong class=\"fs-18 fw-500 text-white d-block\">Intro Video</strong></p>"
+      why_choose_us_image: "https://7z8qfp6r.media.zestyio.com/3d-money-coin-icon-illustration.png"
+      why_choose_us_label: "Why Choose us"
+      why_choose_us_text: "Why <span>Choose</span> Us"
+      youtube_video_link: "https://www.youtube.com/watch?v=Y2cux28b9q0"

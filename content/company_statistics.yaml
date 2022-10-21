@@ -1,0 +1,64 @@
+
+  - id: "7514-4590-3478"
+    web:
+      metaDescription: "Cumulative trading volume since inception."
+      metaTitle: "$1b+"
+      metaLinkText: "$1b+"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 137
+      listed: true
+    data:
+      counter_text: "b+"
+      main_statistic: "1"
+      sort_order: 1
+      statistic_description: "Cumulative trading volume since inception."
+  - id: "f1cb-a9eb-b2f4"
+    web:
+      metaDescription: "countries and regions served."
+      metaTitle: "120+"
+      metaLinkText: "120+"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 139
+      listed: true
+    data:
+      counter_text: "+"
+      main_statistic: "120"
+      sort_order: 3
+      statistic_description: "countries and regions served."
+  - id: "f3d0-9ad5-aade"
+    web:
+      metaDescription: "million users across the globe."
+      metaTitle: "10"
+      metaLinkText: "10"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 138
+      listed: true
+    data:
+      counter_text: null
+      main_statistic: "10"
+      sort_order: 2
+      statistic_description: "million users across the globe."

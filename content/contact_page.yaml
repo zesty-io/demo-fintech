@@ -1,0 +1,35 @@
+
+  - id: "072a-f946-d636"
+    web:
+      metaDescription: ""
+      metaTitle: "Contact us"
+      metaLinkText: "Contact page"
+      metaKeywords: null
+      pathPart: "contact-us"
+      path: "/contact-us/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 127
+      listed: true
+    data:
+      address_details: "<p>1045 Sixth Avenue</p>\n<p>San Diego, CA 92101</p>"
+      address_title: "Address"
+      button_name: "Send Message"
+      contact_details: "<p>You can reach us at</p>\n<p><a href=\"tel:858.888.8888\" target=\"_blank\" rel=\"noopener\">858.888.8888</a></p>"
+      contact_title: "Contact Info"
+      description: "<p>Send us a message or call us directly for inquiries</p>"
+      icon_1: "https://7z8qfp6r.media.zestyio.com/icon_161.png"
+      icon_2: "https://7z8qfp6r.media.zestyio.com/icon_162.png"
+      icon_3: "https://7z8qfp6r.media.zestyio.com/icon_163.png"
+      input_placeholder_1: "<p>John Doe</p>"
+      input_placeholder_2: "<p>demo@domain.com</p>"
+      input_placeholder_3: "<p>Your Message</p>"
+      input_title_1: "Name*"
+      input_title_2: "Email*"
+      support_details: "<p>Contact our chat line at</p>\n<p><a href=\"https://www.zesty.io/contact/\" target=\"_blank\" rel=\"noopener\">chat.zesty.123</a></p>"
+      support_title: "Live Support"
+      title: "Contact us"

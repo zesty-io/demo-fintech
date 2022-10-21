@@ -1,0 +1,27 @@
+
+  - id: "1c87-d160-36cf"
+    web:
+      metaDescription: ""
+      metaTitle: "Blog"
+      metaLinkText: "Blog"
+      metaKeywords: null
+      pathPart: "blog"
+      path: "/blog/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 101
+      listed: true
+    data:
+      article_highlight: "ce5d-38b7-e832"
+      articles: "ce5d-38b7-e832,566b-f8c9-723b,ed06-1a81-4cf2,10fd-1788-6f73,c74d-14b0-86ad"
+      blog_title: "Learn the latest in finance"
+      button_name: "Read More"
+      categories: "f19c-c42b-dda1,ae23-6c35-42f4,78fa-bdc2-3d1b"
+      cta_card: "aeec-05cc-a704"
+      eyebrow: "Blog"
+      recent_news: "566b-f8c9-723b,ed06-1a81-4cf2,c74d-14b0-86ad,ce5d-38b7-e832"
+      top_articles: "566b-f8c9-723b,ed06-1a81-4cf2,c74d-14b0-86ad"

@@ -1,0 +1,45 @@
+
+  - id: "aeec-05cc-a704"
+    web:
+      metaDescription: "Our company can show you how"
+      metaTitle: "Navigate the financial world"
+      metaLinkText: "Navigate the financial world"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 125
+      listed: true
+    data:
+      background_image: "https://7z8qfp6r.media.zestyio.com/marvin-meyer-SYTO3xs06fU-unsplash.jpg"
+      cta_button_link: "072a-f946-d636"
+      cta_button_title: "Contact us"
+      description: "Our company can show you how"
+      title: "Navigate the financial world"
+  - id: "0c93-4535-ea8f"
+    web:
+      metaDescription: "Take our crypto course and become a certified crypto expert"
+      metaTitle: "Learn about crypto"
+      metaLinkText: "Learn about crypto"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 143
+      listed: true
+    data:
+      background_image: "https://7z8qfp6r.media.zestyio.com/towfiqu-barbhuiya-joqWSI9u_XM-unsplash.jpg"
+      cta_button_link: "072a-f946-d636"
+      cta_button_title: "Register now"
+      description: "Take our crypto course and become a certified crypto expert"
+      title: "Learn about crypto"

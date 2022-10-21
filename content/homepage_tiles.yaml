@@ -1,0 +1,64 @@
+
+  - id: "a596-8ef1-5b2b"
+    web:
+      metaDescription: "Duis aute irure dolor in reprehenderit in voluptate velit esse."
+      metaTitle: "Secure Storage"
+      metaLinkText: "Secure Storage"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 130
+      listed: true
+    data:
+      description: "Duis aute irure dolor in reprehenderit in voluptate velit esse."
+      main_image: "https://7z8qfp6r.media.zestyio.com/Secure-Storage-Icon.png"
+      main_text: "Secure Storage"
+      sort_order: 3
+  - id: "1915-407b-f429"
+    web:
+      metaDescription: "Ut enim ad minim veniam quis nostrud exercitation."
+      metaTitle: "Protected by Insurance"
+      metaLinkText: "Protected by Insurance"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 129
+      listed: true
+    data:
+      description: "Ut enim ad minim veniam quis nostrud exercitation."
+      main_image: "https://7z8qfp6r.media.zestyio.com/Protected-by-Insurance-Icon.png"
+      main_text: "Protected by Insurance"
+      sort_order: 2
+  - id: "c213-4ea3-43bb"
+    web:
+      metaDescription: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      metaTitle: "Best Exchange Rates"
+      metaLinkText: "Best Exchange Rates"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 128
+      listed: true
+    data:
+      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      main_image: "https://7z8qfp6r.media.zestyio.com/Exchange-Rates-Icon-.png"
+      main_text: "Best Exchange Rates"
+      sort_order: 1

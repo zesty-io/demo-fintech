@@ -1,0 +1,51 @@
+
+  - type: "script"
+    attributes:
+      src: "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"
+      type: "text/javascript"
+    sort: 5
+  - type: "meta"
+    attributes:
+      content: "IE=edge"
+      http-equiv: "X-UA-Compatible"
+    sort: 1
+  - type: "script"
+    attributes:
+      rel: "stylesheet"
+      src: "styles.css"
+      type: "text/css"
+    sort: 7
+  - type: "meta"
+    attributes:
+      content: "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"
+      name: "viewport"
+    sort: 2
+  - type: "script"
+    attributes:
+      src: "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+      type: "text/javascript"
+    sort: 5
+  - type: "script"
+    attributes:
+      media: "all"
+      rel: "stylesheet"
+      src: "responsive.css"
+      type: "text/css"
+    sort: 8
+  - type: "meta"
+    attributes:
+      content: "black"
+      name: "apple-mobile-web-app-status-bar-style"
+    sort: 4
+  - type: "link"
+    attributes:
+      href: "https://7z8qfp6r.media.zestyio.com/ZeeFinance-Favicon.png"
+      rel: "icon"
+      sizes: "196x196"
+      type: "image/png"
+    sort: 0
+  - type: "meta"
+    attributes:
+      content: "yes"
+      name: "apple-mobile-web-app-capable"
+    sort: 0

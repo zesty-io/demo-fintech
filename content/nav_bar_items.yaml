@@ -1,0 +1,89 @@
+
+  - id: "02f2-c159-6dfc"
+    web:
+      metaDescription: ""
+      metaTitle: "Home"
+      metaLinkText: "Home"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 167
+      listed: true
+    data:
+      link: "135d-24f5-498a"
+      parent: null
+      sort_order: null
+      title: "Home"
+      zesty_link: null
+  - id: "6b85-0f39-6cdb"
+    web:
+      metaDescription: ""
+      metaTitle: "Contact us"
+      metaLinkText: "Contact us"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 155
+      listed: true
+    data:
+      link: "072a-f946-d636"
+      parent: null
+      sort_order: 3
+      title: "Contact us"
+      zesty_link: null
+  - id: "a979-c087-8b23"
+    web:
+      metaDescription: ""
+      metaTitle: "Blog"
+      metaLinkText: "Blog"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 154
+      listed: true
+    data:
+      link: "1c87-d160-36cf"
+      parent: null
+      sort_order: 2
+      title: "Blog"
+      zesty_link: null
+  - id: "3215-2b33-5cbb"
+    web:
+      metaDescription: ""
+      metaTitle: "Product"
+      metaLinkText: "Product"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 153
+      listed: true
+    data:
+      link: "a3de-5d82-dbb8"
+      parent: null
+      sort_order: 1
+      title: "Product"
+      zesty_link: null

@@ -1,0 +1,21 @@
+
+  - id: "184b-614f-1a65"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: "page"
+      path: "/page/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      content: "<p>A Simple Page is often the most common page template on a website and is used for pages with general information. This layout is great for pages such as \"About Us,\" \"Mission Statement,\" \"Basic Team Pages,\" \"Service pages,\" and other simpler pages which don't require a unique layout.&nbsp;</p>\n<p>A standrad page can have:</p>\n<ul>\n<li>Bullet lists</li>\n<li>Can be used with the WYSIWIG</li>\n<li>Along with other content</li>\n</ul>\n<h2>Like Headers</h2>\n<p><img style=\"float: left;\" src=\"https://b64d8ceea21aaf2a6e01-2dc0b1b1038915cc64f54354367e7400.ssl.cf2.rackcdn.com/or-peppers.jpg\" alt=\"Untitled\" width=\"114\" height=\"76\" /></p>\n<p>Paragraphs can have <em>italic</em> and <strong>bold</strong> styles with the WYSIWIG. They may also have inline images along side tables.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p style=\"padding-left: 30px;\">A standrad page can use indented text for quotes or establishing lists without bullets,&nbsp;</p>\n<p>And&nbsp;<a href=\"/\">links</a>&nbsp;</p>\n<p style=\"text-align: center;\">and centered text</p>\n<p style=\"text-align: right;\">or right aligned text.</p>\n<p>Horizontal Rules:</p>\n<hr />\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h4>Here is a Table:</h4>\n<table style=\"height: 168px;\" width=\"550\">\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td><strong>A</strong></td>\n<td><strong>B</strong></td>\n<td><strong>C</strong></td>\n</tr>\n<tr>\n<td><strong>1</strong></td>\n<td>A1</td>\n<td>B1</td>\n<td>C1</td>\n</tr>\n<tr>\n<td><strong>2</strong></td>\n<td>A2</td>\n<td>B2</td>\n<td>C2</td>\n</tr>\n<tr>\n<td><strong>3</strong></td>\n<td>A3</td>\n<td>B3</td>\n<td>C3</td>\n</tr>\n</tbody>\n</table>"
+      image: "https://be93523bd41e2e475e74-e4edef19ad51123442eaceed55c78461.ssl.cf2.rackcdn.com/or-peppers.jpg"
+      title: "Example Simple Page"

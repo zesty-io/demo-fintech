@@ -1,0 +1,77 @@
+
+  - id: "24c3-baa2-cbce"
+    web:
+      metaDescription: ""
+      metaTitle: "Personal finance"
+      metaLinkText: "Personal finance"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 161
+      listed: true
+    data:
+      category_description: null
+      category_name: "Personal finance"
+  - id: "f19c-c42b-dda1"
+    web:
+      metaDescription: ""
+      metaTitle: "Finance"
+      metaLinkText: "Finance"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 122
+      listed: true
+    data:
+      category_description: "The newest finance insights"
+      category_name: "Finance"
+  - id: "78fa-bdc2-3d1b"
+    web:
+      metaDescription: ""
+      metaTitle: "News"
+      metaLinkText: "News"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 123
+      listed: true
+    data:
+      category_description: "The latest news from our company"
+      category_name: "News"
+  - id: "ae23-6c35-42f4"
+    web:
+      metaDescription: ""
+      metaTitle: "Crypto"
+      metaLinkText: "Crypto"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 124
+      listed: true
+    data:
+      category_description: "The latest in cryptocurrency"
+      category_name: "Crypto"
